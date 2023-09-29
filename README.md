@@ -1,5 +1,5 @@
 # BackEnd
-# Mi Aplicación de Chat Similar a Discord
+# Mi proyecto integrador Similar a Discord
 
 ![Logo de la Aplicación](enlace_a_la_imagen_del_logo.png)
 
